@@ -1,0 +1,7847 @@
+{
+  "timestamp": 1751621400000,
+  "stocks": [
+    {
+      "ticker": "AAPL",
+      "waveFreq": 1.0798383699689111,
+      "waveShift": 1.0747246814168736
+    },
+    {
+      "ticker": "GOOGL",
+      "waveFreq": 1.2546487153682302,
+      "waveShift": 1.3002242592460092
+    },
+    {
+      "ticker": "FB",
+      "waveFreq": 0.740510844625642,
+      "waveShift": 1.2324617257973278
+    },
+    {
+      "ticker": "MSFT",
+      "waveFreq": 0.5309733123997082,
+      "waveShift": 1.3389213025085753
+    }
+  ],
+  "history": [
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751621400000,
+      "price": 119.25
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751621400000,
+      "price": 829.53
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751621400000,
+      "price": 122.62
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751621400000,
+      "price": 62.61
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751621460000,
+      "price": 119.2284
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751621460000,
+      "price": 829.7531
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751621460000,
+      "price": 122.5965
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751621460000,
+      "price": 62.6941
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751621520000,
+      "price": 119.2393
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751621520000,
+      "price": 829.5963
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751621520000,
+      "price": 122.54950000000001
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751621520000,
+      "price": 62.6762
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751621580000,
+      "price": 119.2984
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751621580000,
+      "price": 829.4669
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751621580000,
+      "price": 122.31840000000001
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751621580000,
+      "price": 62.7661
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751621640000,
+      "price": 119.2403
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751621640000,
+      "price": 830.247
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751621640000,
+      "price": 122.19610000000002
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751621640000,
+      "price": 62.7447
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751621700000,
+      "price": 119.2403
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751621700000,
+      "price": 829.6351999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751621700000,
+      "price": 122.07370000000002
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751621700000,
+      "price": 62.7447
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751621760000,
+      "price": 119.2642
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751621760000,
+      "price": 829.6351999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751621760000,
+      "price": 122.10700000000001
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751621760000,
+      "price": 62.7447
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751621820000,
+      "price": 119.2642
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751621820000,
+      "price": 830.2742
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751621820000,
+      "price": 122.10700000000001
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751621820000,
+      "price": 62.7909
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751621880000,
+      "price": 119.304
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751621880000,
+      "price": 831.1939
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751621880000,
+      "price": 122.01180000000001
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751621880000,
+      "price": 62.9607
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751621940000,
+      "price": 119.3899
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751621940000,
+      "price": 830.6721
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751621940000,
+      "price": 121.9706
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751621940000,
+      "price": 62.8355
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622000000,
+      "price": 119.3283
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622000000,
+      "price": 830.4778
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622000000,
+      "price": 121.8977
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622000000,
+      "price": 62.933400000000006
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622060000,
+      "price": 119.2351
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622060000,
+      "price": 829.8116
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622060000,
+      "price": 121.8977
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622060000,
+      "price": 62.933400000000006
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622120000,
+      "price": 119.3082
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622120000,
+      "price": 829.221
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622120000,
+      "price": 121.7319
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622120000,
+      "price": 62.933400000000006
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622180000,
+      "price": 119.3928
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622180000,
+      "price": 829.5772
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622180000,
+      "price": 121.50359999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622180000,
+      "price": 62.933400000000006
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622240000,
+      "price": 119.35449999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622240000,
+      "price": 830.3584999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622240000,
+      "price": 121.18409999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622240000,
+      "price": 62.933400000000006
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622300000,
+      "price": 119.39889999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622300000,
+      "price": 830.0014
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622300000,
+      "price": 121.26239999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622300000,
+      "price": 62.933400000000006
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622360000,
+      "price": 119.39889999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622360000,
+      "price": 830.0014
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622360000,
+      "price": 121.26449999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622360000,
+      "price": 62.77080000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622420000,
+      "price": 119.35149999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622420000,
+      "price": 830.5197
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622420000,
+      "price": 121.36829999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622420000,
+      "price": 62.62830000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622480000,
+      "price": 119.41329999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622480000,
+      "price": 830.9582999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622480000,
+      "price": 121.36829999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622480000,
+      "price": 62.51950000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622540000,
+      "price": 119.3407
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622540000,
+      "price": 830.9949999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622540000,
+      "price": 121.31159999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622540000,
+      "price": 62.51950000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622600000,
+      "price": 119.3407
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622600000,
+      "price": 830.9949999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622600000,
+      "price": 121.31159999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622600000,
+      "price": 62.43520000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622660000,
+      "price": 119.4682
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622660000,
+      "price": 831.3384999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622660000,
+      "price": 121.34779999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622660000,
+      "price": 62.35390000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622720000,
+      "price": 119.4568
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622720000,
+      "price": 831.3384999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622720000,
+      "price": 121.27229999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622720000,
+      "price": 62.35390000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622780000,
+      "price": 119.6096
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622780000,
+      "price": 830.7663999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622780000,
+      "price": 121.27229999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622780000,
+      "price": 62.44490000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622840000,
+      "price": 119.6096
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622840000,
+      "price": 830.7018999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622840000,
+      "price": 121.28629999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622840000,
+      "price": 62.44490000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622900000,
+      "price": 119.5214
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622900000,
+      "price": 830.1806999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622900000,
+      "price": 121.28629999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622900000,
+      "price": 62.37260000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751622960000,
+      "price": 119.4716
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751622960000,
+      "price": 830.0396999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751622960000,
+      "price": 121.28629999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751622960000,
+      "price": 62.45760000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623020000,
+      "price": 119.4716
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623020000,
+      "price": 830.0396999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623020000,
+      "price": 121.21139999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623020000,
+      "price": 62.45760000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623080000,
+      "price": 119.5064
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623080000,
+      "price": 830.0396999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623080000,
+      "price": 121.04369999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623080000,
+      "price": 62.37430000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623140000,
+      "price": 119.5064
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623140000,
+      "price": 830.0396999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623140000,
+      "price": 121.15349999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623140000,
+      "price": 62.212100000000014
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623200000,
+      "price": 119.5664
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623200000,
+      "price": 829.9911999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623200000,
+      "price": 121.19599999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623200000,
+      "price": 62.212100000000014
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623260000,
+      "price": 119.5085
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623260000,
+      "price": 830.4009
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623260000,
+      "price": 121.01949999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623260000,
+      "price": 62.083300000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623320000,
+      "price": 119.51989999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623320000,
+      "price": 830.4009
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623320000,
+      "price": 120.81409999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623320000,
+      "price": 61.99670000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623380000,
+      "price": 119.6712
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623380000,
+      "price": 830.4009
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623380000,
+      "price": 120.81409999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623380000,
+      "price": 61.99670000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623440000,
+      "price": 119.6712
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623440000,
+      "price": 830.4009
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623440000,
+      "price": 120.98229999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623440000,
+      "price": 61.99670000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623500000,
+      "price": 119.6712
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623500000,
+      "price": 830.2409
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623500000,
+      "price": 120.98229999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623500000,
+      "price": 61.99670000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623560000,
+      "price": 119.6712
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623560000,
+      "price": 829.9998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623560000,
+      "price": 120.65879999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623560000,
+      "price": 61.97570000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623620000,
+      "price": 119.7908
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623620000,
+      "price": 829.9998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623620000,
+      "price": 120.75569999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623620000,
+      "price": 61.952100000000016
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623680000,
+      "price": 119.9281
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623680000,
+      "price": 830.8895
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623680000,
+      "price": 120.71209999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623680000,
+      "price": 61.952100000000016
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623740000,
+      "price": 119.8603
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623740000,
+      "price": 831.1779
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623740000,
+      "price": 120.71209999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623740000,
+      "price": 61.83740000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623800000,
+      "price": 119.9781
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623800000,
+      "price": 831.7885
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623800000,
+      "price": 120.71209999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623800000,
+      "price": 61.912900000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623860000,
+      "price": 119.9781
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623860000,
+      "price": 831.7708
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623860000,
+      "price": 120.71209999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623860000,
+      "price": 61.912900000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623920000,
+      "price": 119.9781
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623920000,
+      "price": 831.7708
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623920000,
+      "price": 120.8112
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623920000,
+      "price": 61.756700000000016
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751623980000,
+      "price": 119.876
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751623980000,
+      "price": 831.7708
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751623980000,
+      "price": 120.8854
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751623980000,
+      "price": 61.929600000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751624040000,
+      "price": 119.876
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751624040000,
+      "price": 831.6153
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751624040000,
+      "price": 120.87790000000001
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751624040000,
+      "price": 61.85670000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751624100000,
+      "price": 119.81970000000001
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751624100000,
+      "price": 832.6253
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751624100000,
+      "price": 120.60770000000001
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751624100000,
+      "price": 61.85670000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751624160000,
+      "price": 119.97730000000001
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751624160000,
+      "price": 832.7367
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751624160000,
+      "price": 120.54780000000001
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751624160000,
+      "price": 61.74090000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751624220000,
+      "price": 119.97730000000001
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751624220000,
+      "price": 832.7367
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751624220000,
+      "price": 120.5806
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751624220000,
+      "price": 61.749200000000016
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751624280000,
+      "price": 120.01880000000001
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751624280000,
+      "price": 832.9556
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751624280000,
+      "price": 120.5806
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751624280000,
+      "price": 61.749200000000016
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751624340000,
+      "price": 120.01880000000001
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751624340000,
+      "price": 832.9556
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751624340000,
+      "price": 120.3161
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751624340000,
+      "price": 61.811200000000014
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751624400000,
+      "price": 120.01880000000001
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751624400000,
+      "price": 833.4983
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751624400000,
+      "price": 120.15350000000001
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751624400000,
+      "price": 61.740800000000014
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751624460000,
+      "price": 120.09960000000001
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751624460000,
+      "price": 833.9015999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751624460000,
+      "price": 120.27520000000001
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751624460000,
+      "price": 61.740800000000014
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751624520000,
+      "price": 120.03080000000001
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751624520000,
+      "price": 833.9015999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751624520000,
+      "price": 120.27520000000001
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751624520000,
+      "price": 61.740800000000014
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751624580000,
+      "price": 119.95320000000001
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751624580000,
+      "price": 833.617
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751624580000,
+      "price": 120.141
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751624580000,
+      "price": 61.93140000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751624640000,
+      "price": 119.9963
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751624640000,
+      "price": 833.617
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751624640000,
+      "price": 120.141
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751624640000,
+      "price": 61.83430000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751624700000,
+      "price": 120.095
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751624700000,
+      "price": 833.617
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751624700000,
+      "price": 120.0308
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751624700000,
+      "price": 61.88010000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751624760000,
+      "price": 120.2431
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751624760000,
+      "price": 833.617
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751624760000,
+      "price": 120.111
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751624760000,
+      "price": 62.09860000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751624820000,
+      "price": 120.2876
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751624820000,
+      "price": 833.617
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751624820000,
+      "price": 119.8692
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751624820000,
+      "price": 62.09860000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751624880000,
+      "price": 120.32809999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751624880000,
+      "price": 833.617
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751624880000,
+      "price": 119.8692
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751624880000,
+      "price": 62.03890000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751624940000,
+      "price": 120.32809999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751624940000,
+      "price": 834.5957999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751624940000,
+      "price": 120.0403
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751624940000,
+      "price": 62.14940000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625000000,
+      "price": 120.28729999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625000000,
+      "price": 834.8006999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625000000,
+      "price": 119.854
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625000000,
+      "price": 62.14260000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625060000,
+      "price": 120.3547
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625060000,
+      "price": 835.1158999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625060000,
+      "price": 119.854
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625060000,
+      "price": 62.097900000000024
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625120000,
+      "price": 120.29809999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625120000,
+      "price": 835.1158999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625120000,
+      "price": 119.8954
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625120000,
+      "price": 62.196800000000025
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625180000,
+      "price": 120.40239999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625180000,
+      "price": 835.9155
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625180000,
+      "price": 119.75569999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625180000,
+      "price": 62.087900000000026
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625240000,
+      "price": 120.40239999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625240000,
+      "price": 836.5142999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625240000,
+      "price": 119.83319999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625240000,
+      "price": 62.087900000000026
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625300000,
+      "price": 120.40219999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625300000,
+      "price": 836.5142999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625300000,
+      "price": 119.88909999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625300000,
+      "price": 62.087900000000026
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625360000,
+      "price": 120.39539999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625360000,
+      "price": 836.5142999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625360000,
+      "price": 119.72739999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625360000,
+      "price": 62.199400000000026
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625420000,
+      "price": 120.32119999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625420000,
+      "price": 836.3485
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625420000,
+      "price": 119.52929999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625420000,
+      "price": 62.26910000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625480000,
+      "price": 120.32119999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625480000,
+      "price": 836.9298
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625480000,
+      "price": 119.34299999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625480000,
+      "price": 62.137300000000025
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625540000,
+      "price": 120.33349999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625540000,
+      "price": 835.7703
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625540000,
+      "price": 119.2203
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625540000,
+      "price": 62.156800000000025
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625600000,
+      "price": 120.33349999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625600000,
+      "price": 835.7703
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625600000,
+      "price": 119.0235
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625600000,
+      "price": 61.932900000000025
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625660000,
+      "price": 120.42949999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625660000,
+      "price": 835.3864
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625660000,
+      "price": 118.9369
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625660000,
+      "price": 61.874000000000024
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625720000,
+      "price": 120.34519999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625720000,
+      "price": 835.3864
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625720000,
+      "price": 118.9369
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625720000,
+      "price": 61.874000000000024
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625780000,
+      "price": 120.26299999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625780000,
+      "price": 835.4793
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625780000,
+      "price": 118.9369
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625780000,
+      "price": 61.874000000000024
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625840000,
+      "price": 120.26299999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625840000,
+      "price": 835.4793
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625840000,
+      "price": 119.1137
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625840000,
+      "price": 61.829500000000024
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625900000,
+      "price": 120.26299999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625900000,
+      "price": 835.4793
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625900000,
+      "price": 119.1137
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625900000,
+      "price": 61.829500000000024
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751625960000,
+      "price": 120.26299999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751625960000,
+      "price": 836.6986999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751625960000,
+      "price": 119.119
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751625960000,
+      "price": 61.710300000000025
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626020000,
+      "price": 120.26299999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626020000,
+      "price": 836.5654
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626020000,
+      "price": 119.2236
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626020000,
+      "price": 61.78900000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626080000,
+      "price": 120.25059999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626080000,
+      "price": 836.24
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626080000,
+      "price": 119.2236
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626080000,
+      "price": 61.868500000000026
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626140000,
+      "price": 120.25059999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626140000,
+      "price": 836.9818
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626140000,
+      "price": 119.3357
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626140000,
+      "price": 61.89580000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626200000,
+      "price": 120.25059999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626200000,
+      "price": 837.6268
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626200000,
+      "price": 119.316
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626200000,
+      "price": 61.883900000000025
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626260000,
+      "price": 120.25059999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626260000,
+      "price": 837.5946
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626260000,
+      "price": 119.316
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626260000,
+      "price": 61.883900000000025
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626320000,
+      "price": 120.25059999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626320000,
+      "price": 837.5946
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626320000,
+      "price": 119.2685
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626320000,
+      "price": 61.81810000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626380000,
+      "price": 120.25059999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626380000,
+      "price": 837.5946
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626380000,
+      "price": 119.175
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626380000,
+      "price": 61.85770000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626440000,
+      "price": 120.09959999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626440000,
+      "price": 837.5946
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626440000,
+      "price": 118.9648
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626440000,
+      "price": 61.85770000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626500000,
+      "price": 120.16809999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626500000,
+      "price": 838.7365
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626500000,
+      "price": 118.9648
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626500000,
+      "price": 61.80460000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626560000,
+      "price": 120.16809999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626560000,
+      "price": 838.6351999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626560000,
+      "price": 118.9399
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626560000,
+      "price": 61.80460000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626620000,
+      "price": 120.25299999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626620000,
+      "price": 838.1599
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626620000,
+      "price": 118.8065
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626620000,
+      "price": 61.80460000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626680000,
+      "price": 120.41749999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626680000,
+      "price": 838.1599
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626680000,
+      "price": 118.8065
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626680000,
+      "price": 61.789900000000024
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626740000,
+      "price": 120.22379999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626740000,
+      "price": 838.1599
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626740000,
+      "price": 118.8065
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626740000,
+      "price": 61.689100000000025
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626800000,
+      "price": 120.37499999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626800000,
+      "price": 839.3285999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626800000,
+      "price": 118.8065
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626800000,
+      "price": 61.70010000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626860000,
+      "price": 120.36729999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626860000,
+      "price": 839.723
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626860000,
+      "price": 118.9348
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626860000,
+      "price": 61.61470000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626920000,
+      "price": 120.36729999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626920000,
+      "price": 840.5292
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626920000,
+      "price": 118.88279999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626920000,
+      "price": 61.61470000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751626980000,
+      "price": 120.22529999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751626980000,
+      "price": 840.5292
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751626980000,
+      "price": 118.88279999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751626980000,
+      "price": 61.52890000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751627040000,
+      "price": 120.33769999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751627040000,
+      "price": 841.7319
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751627040000,
+      "price": 118.88279999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751627040000,
+      "price": 61.533300000000025
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751627100000,
+      "price": 120.39169999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751627100000,
+      "price": 842.3249
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751627100000,
+      "price": 118.88279999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751627100000,
+      "price": 61.533300000000025
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751627160000,
+      "price": 120.41669999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751627160000,
+      "price": 842.3249
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751627160000,
+      "price": 118.93059999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751627160000,
+      "price": 61.64130000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751627220000,
+      "price": 120.3141
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751627220000,
+      "price": 841.9082999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751627220000,
+      "price": 119.03479999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751627220000,
+      "price": 61.587000000000025
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751627280000,
+      "price": 120.3141
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751627280000,
+      "price": 842.3480999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751627280000,
+      "price": 119.03479999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751627280000,
+      "price": 61.49170000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751627340000,
+      "price": 120.3543
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751627340000,
+      "price": 841.8977
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751627340000,
+      "price": 118.98749999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751627340000,
+      "price": 61.49170000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751627400000,
+      "price": 120.42219999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751627400000,
+      "price": 842.5378
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751627400000,
+      "price": 119.01459999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751627400000,
+      "price": 61.47330000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751627460000,
+      "price": 120.41309999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751627460000,
+      "price": 841.5546999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751627460000,
+      "price": 119.15189999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751627460000,
+      "price": 61.56060000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751627520000,
+      "price": 120.41309999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751627520000,
+      "price": 841.5546999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751627520000,
+      "price": 119.10489999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751627520000,
+      "price": 61.48230000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751627580000,
+      "price": 120.37809999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751627580000,
+      "price": 842.2918999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751627580000,
+      "price": 119.03379999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751627580000,
+      "price": 61.48990000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751627640000,
+      "price": 120.42159999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751627640000,
+      "price": 842.6631
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751627640000,
+      "price": 119.01169999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751627640000,
+      "price": 61.52840000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751627700000,
+      "price": 120.50889999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751627700000,
+      "price": 843.2732
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751627700000,
+      "price": 119.01169999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751627700000,
+      "price": 61.42790000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751627760000,
+      "price": 120.55249999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751627760000,
+      "price": 843.2732
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751627760000,
+      "price": 119.01169999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751627760000,
+      "price": 61.42900000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751627820000,
+      "price": 120.64859999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751627820000,
+      "price": 843.2732
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751627820000,
+      "price": 119.09839999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751627820000,
+      "price": 61.42900000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751627880000,
+      "price": 120.64859999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751627880000,
+      "price": 843.2732
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751627880000,
+      "price": 118.94369999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751627880000,
+      "price": 61.51350000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751627940000,
+      "price": 120.64859999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751627940000,
+      "price": 843.342
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751627940000,
+      "price": 118.92369999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751627940000,
+      "price": 61.51350000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628000000,
+      "price": 120.66469999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628000000,
+      "price": 842.8804
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628000000,
+      "price": 118.92369999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628000000,
+      "price": 61.51350000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628060000,
+      "price": 120.75829999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628060000,
+      "price": 843.0296
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628060000,
+      "price": 118.88959999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628060000,
+      "price": 61.51350000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628120000,
+      "price": 120.71499999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628120000,
+      "price": 843.8394999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628120000,
+      "price": 118.88959999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628120000,
+      "price": 61.51350000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628180000,
+      "price": 120.71499999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628180000,
+      "price": 843.7694999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628180000,
+      "price": 118.75249999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628180000,
+      "price": 61.67100000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628240000,
+      "price": 120.76249999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628240000,
+      "price": 844.3586999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628240000,
+      "price": 118.75249999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628240000,
+      "price": 61.67860000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628300000,
+      "price": 120.76249999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628300000,
+      "price": 844.3586999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628300000,
+      "price": 118.75249999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628300000,
+      "price": 61.69560000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628360000,
+      "price": 120.70689999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628360000,
+      "price": 845.5793999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628360000,
+      "price": 118.75249999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628360000,
+      "price": 61.68960000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628420000,
+      "price": 120.92259999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628420000,
+      "price": 846.0937999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628420000,
+      "price": 118.58729999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628420000,
+      "price": 61.77900000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628480000,
+      "price": 120.92259999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628480000,
+      "price": 845.6182999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628480000,
+      "price": 118.35729999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628480000,
+      "price": 61.77900000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628540000,
+      "price": 120.97389999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628540000,
+      "price": 845.6182999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628540000,
+      "price": 118.35729999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628540000,
+      "price": 61.822800000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628600000,
+      "price": 121.00969999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628600000,
+      "price": 845.9146999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628600000,
+      "price": 118.51249999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628600000,
+      "price": 61.822800000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628660000,
+      "price": 120.88259999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628660000,
+      "price": 845.9146999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628660000,
+      "price": 118.59549999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628660000,
+      "price": 61.84540000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628720000,
+      "price": 120.87819999999996
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628720000,
+      "price": 846.6965999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628720000,
+      "price": 118.55139999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628720000,
+      "price": 61.83530000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628780000,
+      "price": 120.93869999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628780000,
+      "price": 846.3070999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628780000,
+      "price": 118.56469999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628780000,
+      "price": 61.88110000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628840000,
+      "price": 121.00819999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628840000,
+      "price": 847.5164999999997
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628840000,
+      "price": 118.64819999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628840000,
+      "price": 61.79290000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628900000,
+      "price": 121.04109999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628900000,
+      "price": 847.4856999999997
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628900000,
+      "price": 118.79319999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628900000,
+      "price": 61.66720000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751628960000,
+      "price": 121.04109999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751628960000,
+      "price": 847.4856999999997
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751628960000,
+      "price": 118.79319999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751628960000,
+      "price": 61.66720000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629020000,
+      "price": 120.91069999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629020000,
+      "price": 847.8219999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629020000,
+      "price": 118.63049999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629020000,
+      "price": 61.69160000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629080000,
+      "price": 121.12339999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629080000,
+      "price": 848.9910999999997
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629080000,
+      "price": 118.63049999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629080000,
+      "price": 61.49900000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629140000,
+      "price": 121.14799999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629140000,
+      "price": 848.9910999999997
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629140000,
+      "price": 118.73529999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629140000,
+      "price": 61.44000000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629200000,
+      "price": 121.29699999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629200000,
+      "price": 849.8291999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629200000,
+      "price": 118.73529999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629200000,
+      "price": 61.49420000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629260000,
+      "price": 121.36269999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629260000,
+      "price": 849.8291999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629260000,
+      "price": 118.59669999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629260000,
+      "price": 61.49420000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629320000,
+      "price": 121.43189999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629320000,
+      "price": 849.1998999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629320000,
+      "price": 118.61549999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629320000,
+      "price": 61.49420000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629380000,
+      "price": 121.38799999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629380000,
+      "price": 849.9884999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629380000,
+      "price": 118.68939999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629380000,
+      "price": 61.64070000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629440000,
+      "price": 121.4253
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629440000,
+      "price": 849.9497999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629440000,
+      "price": 118.68939999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629440000,
+      "price": 61.853400000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629500000,
+      "price": 121.38189999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629500000,
+      "price": 849.6313999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629500000,
+      "price": 118.74449999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629500000,
+      "price": 61.94980000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629560000,
+      "price": 121.38189999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629560000,
+      "price": 850.5347999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629560000,
+      "price": 118.94469999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629560000,
+      "price": 62.02560000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629620000,
+      "price": 121.51199999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629620000,
+      "price": 850.7339
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629620000,
+      "price": 118.83339999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629620000,
+      "price": 62.07420000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629680000,
+      "price": 121.51199999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629680000,
+      "price": 852.0179999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629680000,
+      "price": 118.90599999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629680000,
+      "price": 62.00800000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629740000,
+      "price": 121.57899999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629740000,
+      "price": 852.1693999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629740000,
+      "price": 118.90599999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629740000,
+      "price": 62.11380000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629800000,
+      "price": 121.57899999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629800000,
+      "price": 852.1962999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629800000,
+      "price": 118.90599999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629800000,
+      "price": 62.07630000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629860000,
+      "price": 121.65169999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629860000,
+      "price": 852.5218999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629860000,
+      "price": 118.90249999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629860000,
+      "price": 62.02190000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629920000,
+      "price": 121.65169999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629920000,
+      "price": 852.5218999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629920000,
+      "price": 118.90249999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629920000,
+      "price": 62.02190000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751629980000,
+      "price": 121.65749999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751629980000,
+      "price": 852.5591999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751629980000,
+      "price": 118.96929999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751629980000,
+      "price": 62.02190000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751630040000,
+      "price": 121.76289999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751630040000,
+      "price": 852.5591999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751630040000,
+      "price": 119.02269999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751630040000,
+      "price": 62.02190000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751630100000,
+      "price": 121.70929999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751630100000,
+      "price": 852.5591999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751630100000,
+      "price": 119.02269999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751630100000,
+      "price": 61.938600000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751630160000,
+      "price": 121.56999999999996
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751630160000,
+      "price": 852.9631999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751630160000,
+      "price": 119.02269999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751630160000,
+      "price": 61.938600000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751630220000,
+      "price": 121.63109999999996
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751630220000,
+      "price": 852.9631999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751630220000,
+      "price": 119.02269999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751630220000,
+      "price": 61.86490000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751630280000,
+      "price": 121.63109999999996
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751630280000,
+      "price": 852.9631999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751630280000,
+      "price": 119.20249999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751630280000,
+      "price": 61.848700000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751630340000,
+      "price": 121.63109999999996
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751630340000,
+      "price": 854.1454999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751630340000,
+      "price": 119.20249999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751630340000,
+      "price": 61.87130000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751630400000,
+      "price": 121.63109999999996
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751630400000,
+      "price": 854.7206999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751630400000,
+      "price": 119.37409999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751630400000,
+      "price": 61.86520000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751630460000,
+      "price": 121.63109999999996
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751630460000,
+      "price": 853.9693999999998
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751630460000,
+      "price": 119.56009999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751630460000,
+      "price": 61.85000000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751630520000,
+      "price": 121.68749999999996
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751630520000,
+      "price": 854.0330999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751630520000,
+      "price": 119.56009999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751630520000,
+      "price": 61.85000000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751630580000,
+      "price": 121.65859999999996
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751630580000,
+      "price": 853.6463999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751630580000,
+      "price": 119.84569999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751630580000,
+      "price": 61.78810000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751630640000,
+      "price": 121.65859999999996
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751630640000,
+      "price": 854.2889999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751630640000,
+      "price": 119.84569999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751630640000,
+      "price": 61.99530000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751630700000,
+      "price": 121.80389999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751630700000,
+      "price": 854.8659999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751630700000,
+      "price": 119.84569999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751630700000,
+      "price": 61.99990000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751630760000,
+      "price": 121.80389999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751630760000,
+      "price": 854.8659999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751630760000,
+      "price": 120.12479999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751630760000,
+      "price": 61.99990000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751630820000,
+      "price": 121.83519999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751630820000,
+      "price": 854.8659999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751630820000,
+      "price": 120.41699999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751630820000,
+      "price": 61.90810000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751630880000,
+      "price": 121.83519999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751630880000,
+      "price": 855.2399999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751630880000,
+      "price": 120.41959999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751630880000,
+      "price": 62.129700000000014
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751630940000,
+      "price": 121.92199999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751630940000,
+      "price": 855.3783999999999
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751630940000,
+      "price": 120.33299999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751630940000,
+      "price": 62.20460000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631000000,
+      "price": 121.95679999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631000000,
+      "price": 856.2559
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631000000,
+      "price": 120.37389999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631000000,
+      "price": 62.169800000000016
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631060000,
+      "price": 121.87869999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631060000,
+      "price": 856.0614
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631060000,
+      "price": 120.70619999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631060000,
+      "price": 62.169800000000016
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631120000,
+      "price": 121.95879999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631120000,
+      "price": 856.363
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631120000,
+      "price": 120.63049999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631120000,
+      "price": 62.244700000000016
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631180000,
+      "price": 121.85489999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631180000,
+      "price": 855.3049000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631180000,
+      "price": 120.60589999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631180000,
+      "price": 62.277400000000014
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631240000,
+      "price": 121.86689999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631240000,
+      "price": 855.3049000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631240000,
+      "price": 120.60589999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631240000,
+      "price": 62.208900000000014
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631300000,
+      "price": 121.86689999999997
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631300000,
+      "price": 856.0739000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631300000,
+      "price": 120.71729999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631300000,
+      "price": 62.161200000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631360000,
+      "price": 121.92349999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631360000,
+      "price": 856.0739000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631360000,
+      "price": 120.71729999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631360000,
+      "price": 62.161200000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631420000,
+      "price": 121.92959999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631420000,
+      "price": 856.2494000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631420000,
+      "price": 120.71729999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631420000,
+      "price": 62.161200000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631480000,
+      "price": 121.89669999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631480000,
+      "price": 856.1265000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631480000,
+      "price": 120.58589999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631480000,
+      "price": 62.333500000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631540000,
+      "price": 121.85669999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631540000,
+      "price": 856.5851000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631540000,
+      "price": 120.68229999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631540000,
+      "price": 62.333500000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631600000,
+      "price": 121.98949999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631600000,
+      "price": 856.5851000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631600000,
+      "price": 120.71559999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631600000,
+      "price": 62.31840000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631660000,
+      "price": 121.97029999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631660000,
+      "price": 856.8895000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631660000,
+      "price": 120.75489999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631660000,
+      "price": 62.26090000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631720000,
+      "price": 121.97029999999998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631720000,
+      "price": 857.3555000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631720000,
+      "price": 120.72239999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631720000,
+      "price": 62.14160000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631780000,
+      "price": 122.02309999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631780000,
+      "price": 856.8886000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631780000,
+      "price": 120.73239999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631780000,
+      "price": 62.08130000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631840000,
+      "price": 121.99829999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631840000,
+      "price": 857.4845000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631840000,
+      "price": 120.69569999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631840000,
+      "price": 62.17380000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631900000,
+      "price": 122.02499999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631900000,
+      "price": 857.4845000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631900000,
+      "price": 120.69569999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631900000,
+      "price": 61.98610000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751631960000,
+      "price": 122.13059999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751631960000,
+      "price": 857.5740000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751631960000,
+      "price": 120.69569999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751631960000,
+      "price": 61.81010000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632020000,
+      "price": 122.14359999999999
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632020000,
+      "price": 857.5322000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632020000,
+      "price": 120.58619999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632020000,
+      "price": 61.75640000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632080000,
+      "price": 122.1498
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632080000,
+      "price": 857.3333000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632080000,
+      "price": 120.74239999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632080000,
+      "price": 61.83230000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632140000,
+      "price": 122.1786
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632140000,
+      "price": 857.3333000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632140000,
+      "price": 120.74239999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632140000,
+      "price": 62.005600000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632200000,
+      "price": 122.1786
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632200000,
+      "price": 857.3333000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632200000,
+      "price": 120.78409999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632200000,
+      "price": 61.910100000000014
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632260000,
+      "price": 122.1786
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632260000,
+      "price": 856.9449000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632260000,
+      "price": 120.99949999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632260000,
+      "price": 61.78870000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632320000,
+      "price": 122.2581
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632320000,
+      "price": 857.2819000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632320000,
+      "price": 121.04649999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632320000,
+      "price": 61.801000000000016
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632380000,
+      "price": 122.3998
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632380000,
+      "price": 856.8158000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632380000,
+      "price": 121.01219999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632380000,
+      "price": 61.983500000000014
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632440000,
+      "price": 122.4929
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632440000,
+      "price": 856.5330000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632440000,
+      "price": 121.06569999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632440000,
+      "price": 61.83380000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632500000,
+      "price": 122.52860000000001
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632500000,
+      "price": 856.5330000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632500000,
+      "price": 121.06569999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632500000,
+      "price": 61.83380000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632560000,
+      "price": 122.52860000000001
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632560000,
+      "price": 856.5330000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632560000,
+      "price": 120.95399999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632560000,
+      "price": 61.99610000000001
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632620000,
+      "price": 122.52860000000001
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632620000,
+      "price": 856.5811000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632620000,
+      "price": 120.93219999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632620000,
+      "price": 61.950400000000016
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632680000,
+      "price": 122.65760000000002
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632680000,
+      "price": 857.3902000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632680000,
+      "price": 120.88849999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632680000,
+      "price": 61.950400000000016
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632740000,
+      "price": 122.69240000000002
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632740000,
+      "price": 857.2605000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632740000,
+      "price": 120.88849999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632740000,
+      "price": 62.08660000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632800000,
+      "price": 122.78640000000001
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632800000,
+      "price": 857.1263000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632800000,
+      "price": 120.87539999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632800000,
+      "price": 62.234200000000016
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632860000,
+      "price": 122.78640000000001
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632860000,
+      "price": 857.5499000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632860000,
+      "price": 120.87539999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632860000,
+      "price": 62.27020000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632920000,
+      "price": 122.78640000000001
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632920000,
+      "price": 857.1492000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632920000,
+      "price": 120.75439999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632920000,
+      "price": 62.337800000000016
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751632980000,
+      "price": 122.83150000000002
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751632980000,
+      "price": 856.5465000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751632980000,
+      "price": 120.75439999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751632980000,
+      "price": 62.217500000000015
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751633040000,
+      "price": 122.83150000000002
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751633040000,
+      "price": 856.8337000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751633040000,
+      "price": 120.80899999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751633040000,
+      "price": 62.18740000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751633100000,
+      "price": 122.97080000000003
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751633100000,
+      "price": 856.8337000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751633100000,
+      "price": 120.72899999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751633100000,
+      "price": 62.10250000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751633160000,
+      "price": 123.02910000000003
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751633160000,
+      "price": 856.5465000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751633160000,
+      "price": 120.72899999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751633160000,
+      "price": 62.09900000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751633220000,
+      "price": 123.07800000000003
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751633220000,
+      "price": 856.5465000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751633220000,
+      "price": 121.05309999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751633220000,
+      "price": 62.09900000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751633280000,
+      "price": 123.20150000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751633280000,
+      "price": 856.1233000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751633280000,
+      "price": 121.05309999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751633280000,
+      "price": 62.17030000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751633340000,
+      "price": 123.23010000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751633340000,
+      "price": 856.8011000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751633340000,
+      "price": 121.36999999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751633340000,
+      "price": 62.11130000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751633400000,
+      "price": 123.34510000000003
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751633400000,
+      "price": 856.0772000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751633400000,
+      "price": 121.19859999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751633400000,
+      "price": 62.11130000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751633460000,
+      "price": 123.40560000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751633460000,
+      "price": 856.0772000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751633460000,
+      "price": 121.08779999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751633460000,
+      "price": 62.11130000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751633520000,
+      "price": 123.41430000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751633520000,
+      "price": 856.0772000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751633520000,
+      "price": 121.06899999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751633520000,
+      "price": 62.244300000000024
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751633580000,
+      "price": 123.45750000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751633580000,
+      "price": 856.0772000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751633580000,
+      "price": 121.06899999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751633580000,
+      "price": 62.34370000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751633640000,
+      "price": 123.44000000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751633640000,
+      "price": 855.5786000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751633640000,
+      "price": 121.23519999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751633640000,
+      "price": 62.277900000000024
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751633700000,
+      "price": 123.40700000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751633700000,
+      "price": 855.4888000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751633700000,
+      "price": 121.21979999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751633700000,
+      "price": 62.277900000000024
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751633760000,
+      "price": 123.40700000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751633760000,
+      "price": 854.8369000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751633760000,
+      "price": 121.21979999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751633760000,
+      "price": 62.340900000000026
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751633820000,
+      "price": 123.40700000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751633820000,
+      "price": 854.8591000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751633820000,
+      "price": 121.12579999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751633820000,
+      "price": 62.34480000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751633880000,
+      "price": 123.40700000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751633880000,
+      "price": 854.8591000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751633880000,
+      "price": 121.27829999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751633880000,
+      "price": 62.28920000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751633940000,
+      "price": 123.37250000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751633940000,
+      "price": 855.2752000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751633940000,
+      "price": 121.35879999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751633940000,
+      "price": 62.34670000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634000000,
+      "price": 123.35780000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634000000,
+      "price": 856.0189000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634000000,
+      "price": 121.37809999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634000000,
+      "price": 62.34670000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634060000,
+      "price": 123.35780000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634060000,
+      "price": 856.0189000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634060000,
+      "price": 121.55099999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634060000,
+      "price": 62.34670000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634120000,
+      "price": 123.45100000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634120000,
+      "price": 855.5301000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634120000,
+      "price": 121.55099999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634120000,
+      "price": 62.39190000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634180000,
+      "price": 123.43410000000003
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634180000,
+      "price": 854.8093000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634180000,
+      "price": 121.74319999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634180000,
+      "price": 62.39190000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634240000,
+      "price": 123.51920000000003
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634240000,
+      "price": 854.8093000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634240000,
+      "price": 121.74319999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634240000,
+      "price": 62.414300000000026
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634300000,
+      "price": 123.58200000000002
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634300000,
+      "price": 854.3197000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634300000,
+      "price": 121.71089999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634300000,
+      "price": 62.54000000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634360000,
+      "price": 123.46570000000003
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634360000,
+      "price": 854.3197000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634360000,
+      "price": 121.68259999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634360000,
+      "price": 62.43810000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634420000,
+      "price": 123.42110000000002
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634420000,
+      "price": 853.7245000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634420000,
+      "price": 121.70459999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634420000,
+      "price": 62.43810000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634480000,
+      "price": 123.46840000000003
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634480000,
+      "price": 853.1630000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634480000,
+      "price": 121.70459999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634480000,
+      "price": 62.434600000000025
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634540000,
+      "price": 123.44610000000003
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634540000,
+      "price": 853.1757000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634540000,
+      "price": 121.78189999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634540000,
+      "price": 62.434600000000025
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634600000,
+      "price": 123.55590000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634600000,
+      "price": 853.1757000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634600000,
+      "price": 121.71649999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634600000,
+      "price": 62.31320000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634660000,
+      "price": 123.55900000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634660000,
+      "price": 853.1681000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634660000,
+      "price": 121.79419999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634660000,
+      "price": 62.40670000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634720000,
+      "price": 123.55900000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634720000,
+      "price": 853.9718000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634720000,
+      "price": 121.79419999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634720000,
+      "price": 62.40670000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634780000,
+      "price": 123.51940000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634780000,
+      "price": 853.9051000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634780000,
+      "price": 121.79419999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634780000,
+      "price": 62.40670000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634840000,
+      "price": 123.61240000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634840000,
+      "price": 853.9051000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634840000,
+      "price": 121.73799999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634840000,
+      "price": 62.40670000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634900000,
+      "price": 123.52330000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634900000,
+      "price": 854.5737000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634900000,
+      "price": 121.83899999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634900000,
+      "price": 62.41370000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751634960000,
+      "price": 123.46930000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751634960000,
+      "price": 854.5737000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751634960000,
+      "price": 121.83899999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751634960000,
+      "price": 62.41370000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635020000,
+      "price": 123.46930000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635020000,
+      "price": 854.7901000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635020000,
+      "price": 121.90789999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635020000,
+      "price": 62.25020000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635080000,
+      "price": 123.46930000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635080000,
+      "price": 854.7901000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635080000,
+      "price": 122.01719999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635080000,
+      "price": 62.23930000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635140000,
+      "price": 123.46930000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635140000,
+      "price": 855.3620000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635140000,
+      "price": 121.92909999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635140000,
+      "price": 62.24030000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635200000,
+      "price": 123.36950000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635200000,
+      "price": 855.3620000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635200000,
+      "price": 121.92909999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635200000,
+      "price": 62.44860000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635260000,
+      "price": 123.36670000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635260000,
+      "price": 855.6095000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635260000,
+      "price": 121.92909999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635260000,
+      "price": 62.44860000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635320000,
+      "price": 123.36670000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635320000,
+      "price": 856.1659000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635320000,
+      "price": 121.99549999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635320000,
+      "price": 62.44860000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635380000,
+      "price": 123.47430000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635380000,
+      "price": 856.7335000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635380000,
+      "price": 121.99549999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635380000,
+      "price": 62.44860000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635440000,
+      "price": 123.47430000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635440000,
+      "price": 856.7029000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635440000,
+      "price": 121.99549999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635440000,
+      "price": 62.38510000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635500000,
+      "price": 123.52430000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635500000,
+      "price": 856.7732000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635500000,
+      "price": 121.99549999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635500000,
+      "price": 62.20350000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635560000,
+      "price": 123.52430000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635560000,
+      "price": 856.7732000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635560000,
+      "price": 121.85059999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635560000,
+      "price": 62.19130000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635620000,
+      "price": 123.52860000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635620000,
+      "price": 857.0261000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635620000,
+      "price": 121.85059999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635620000,
+      "price": 62.32080000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635680000,
+      "price": 123.48220000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635680000,
+      "price": 856.5153000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635680000,
+      "price": 121.85059999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635680000,
+      "price": 62.48190000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635740000,
+      "price": 123.44250000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635740000,
+      "price": 855.9266000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635740000,
+      "price": 121.71539999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635740000,
+      "price": 62.48190000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635800000,
+      "price": 123.34030000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635800000,
+      "price": 855.9266000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635800000,
+      "price": 121.60599999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635800000,
+      "price": 62.52220000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635860000,
+      "price": 123.23590000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635860000,
+      "price": 855.3848000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635860000,
+      "price": 121.60599999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635860000,
+      "price": 62.47600000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635920000,
+      "price": 123.23590000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635920000,
+      "price": 855.5139000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635920000,
+      "price": 121.50229999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635920000,
+      "price": 62.43390000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751635980000,
+      "price": 123.23590000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751635980000,
+      "price": 855.5139000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751635980000,
+      "price": 121.64219999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751635980000,
+      "price": 62.43390000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751636040000,
+      "price": 123.29610000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751636040000,
+      "price": 855.5139000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751636040000,
+      "price": 121.69739999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751636040000,
+      "price": 62.48930000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751636100000,
+      "price": 123.34250000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751636100000,
+      "price": 855.1789000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751636100000,
+      "price": 121.77979999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751636100000,
+      "price": 62.47690000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751636160000,
+      "price": 123.34250000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751636160000,
+      "price": 855.1789000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751636160000,
+      "price": 121.78859999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751636160000,
+      "price": 62.25810000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751636220000,
+      "price": 123.34250000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751636220000,
+      "price": 855.3018000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751636220000,
+      "price": 121.67209999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751636220000,
+      "price": 62.16700000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751636280000,
+      "price": 123.34710000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751636280000,
+      "price": 855.7564000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751636280000,
+      "price": 121.67209999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751636280000,
+      "price": 62.143500000000024
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751636340000,
+      "price": 123.34710000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751636340000,
+      "price": 855.7564000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751636340000,
+      "price": 121.80389999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751636340000,
+      "price": 62.143500000000024
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751636400000,
+      "price": 123.22330000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751636400000,
+      "price": 856.1773000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751636400000,
+      "price": 121.75269999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751636400000,
+      "price": 62.143500000000024
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751636460000,
+      "price": 123.35010000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751636460000,
+      "price": 855.5990000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751636460000,
+      "price": 121.76849999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751636460000,
+      "price": 62.15130000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751636520000,
+      "price": 123.47420000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751636520000,
+      "price": 855.0765000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751636520000,
+      "price": 121.58869999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751636520000,
+      "price": 62.29320000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751636580000,
+      "price": 123.50580000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751636580000,
+      "price": 854.5847000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751636580000,
+      "price": 121.57269999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751636580000,
+      "price": 62.29320000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751636640000,
+      "price": 123.50580000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751636640000,
+      "price": 855.1069000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751636640000,
+      "price": 121.65709999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751636640000,
+      "price": 62.13080000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751636700000,
+      "price": 123.50580000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751636700000,
+      "price": 855.1069000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751636700000,
+      "price": 121.83019999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751636700000,
+      "price": 62.23360000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751636760000,
+      "price": 123.37420000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751636760000,
+      "price": 855.1667000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751636760000,
+      "price": 121.73429999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751636760000,
+      "price": 62.23360000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751636820000,
+      "price": 123.37420000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751636820000,
+      "price": 855.9014000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751636820000,
+      "price": 121.62199999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751636820000,
+      "price": 62.11410000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751636880000,
+      "price": 123.37420000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751636880000,
+      "price": 855.8624000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751636880000,
+      "price": 121.78399999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751636880000,
+      "price": 62.05320000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751636940000,
+      "price": 123.37420000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751636940000,
+      "price": 855.3974000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751636940000,
+      "price": 121.78399999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751636940000,
+      "price": 62.05320000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637000000,
+      "price": 123.23650000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637000000,
+      "price": 855.3683000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637000000,
+      "price": 121.78399999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637000000,
+      "price": 61.97590000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637060000,
+      "price": 123.06630000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637060000,
+      "price": 855.3683000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637060000,
+      "price": 121.55169999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637060000,
+      "price": 61.90970000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637120000,
+      "price": 123.01290000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637120000,
+      "price": 855.1158000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637120000,
+      "price": 121.60739999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637120000,
+      "price": 61.90970000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637180000,
+      "price": 123.01290000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637180000,
+      "price": 854.4599000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637180000,
+      "price": 121.60739999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637180000,
+      "price": 61.90970000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637240000,
+      "price": 123.01290000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637240000,
+      "price": 854.4599000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637240000,
+      "price": 121.57449999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637240000,
+      "price": 61.96970000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637300000,
+      "price": 122.99630000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637300000,
+      "price": 853.7815000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637300000,
+      "price": 121.57449999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637300000,
+      "price": 61.96970000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637360000,
+      "price": 123.00300000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637360000,
+      "price": 853.6217000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637360000,
+      "price": 121.39959999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637360000,
+      "price": 61.96970000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637420000,
+      "price": 123.00300000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637420000,
+      "price": 853.9381000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637420000,
+      "price": 121.32749999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637420000,
+      "price": 62.04440000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637480000,
+      "price": 123.00300000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637480000,
+      "price": 853.9381000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637480000,
+      "price": 121.30799999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637480000,
+      "price": 62.14470000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637540000,
+      "price": 122.94480000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637540000,
+      "price": 854.0304000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637540000,
+      "price": 121.21139999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637540000,
+      "price": 62.18920000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637600000,
+      "price": 122.95590000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637600000,
+      "price": 854.0304000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637600000,
+      "price": 121.23419999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637600000,
+      "price": 62.24260000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637660000,
+      "price": 122.95590000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637660000,
+      "price": 854.0304000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637660000,
+      "price": 121.27529999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637660000,
+      "price": 62.07630000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637720000,
+      "price": 122.87150000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637720000,
+      "price": 854.0304000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637720000,
+      "price": 121.09009999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637720000,
+      "price": 62.07630000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637780000,
+      "price": 122.87150000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637780000,
+      "price": 854.3202000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637780000,
+      "price": 121.22179999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637780000,
+      "price": 62.02210000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637840000,
+      "price": 122.75750000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637840000,
+      "price": 854.4600000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637840000,
+      "price": 121.21579999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637840000,
+      "price": 62.17150000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637900000,
+      "price": 122.82430000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637900000,
+      "price": 853.5551000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637900000,
+      "price": 121.31819999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637900000,
+      "price": 62.17150000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751637960000,
+      "price": 122.82430000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751637960000,
+      "price": 852.8729000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751637960000,
+      "price": 121.41709999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751637960000,
+      "price": 62.17150000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638020000,
+      "price": 122.82430000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638020000,
+      "price": 853.0345000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638020000,
+      "price": 121.41709999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638020000,
+      "price": 62.06280000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638080000,
+      "price": 122.83090000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638080000,
+      "price": 853.0345000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638080000,
+      "price": 121.38959999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638080000,
+      "price": 62.10840000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638140000,
+      "price": 122.85510000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638140000,
+      "price": 853.6640000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638140000,
+      "price": 121.26419999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638140000,
+      "price": 62.202000000000034
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638200000,
+      "price": 123.00030000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638200000,
+      "price": 853.6640000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638200000,
+      "price": 121.14399999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638200000,
+      "price": 62.202000000000034
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638260000,
+      "price": 123.00030000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638260000,
+      "price": 853.5808000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638260000,
+      "price": 121.19949999999999
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638260000,
+      "price": 62.202000000000034
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638320000,
+      "price": 123.00030000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638320000,
+      "price": 853.8385000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638320000,
+      "price": 121.33469999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638320000,
+      "price": 62.24020000000004
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638380000,
+      "price": 122.87070000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638380000,
+      "price": 853.8385000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638380000,
+      "price": 121.44549999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638380000,
+      "price": 62.18080000000004
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638440000,
+      "price": 122.87070000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638440000,
+      "price": 853.8385000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638440000,
+      "price": 121.34269999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638440000,
+      "price": 62.07930000000004
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638500000,
+      "price": 122.92530000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638500000,
+      "price": 853.9276000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638500000,
+      "price": 121.36849999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638500000,
+      "price": 62.216400000000036
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638560000,
+      "price": 122.97980000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638560000,
+      "price": 853.9276000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638560000,
+      "price": 121.32509999999998
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638560000,
+      "price": 62.334300000000034
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638620000,
+      "price": 122.95840000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638620000,
+      "price": 853.3017000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638620000,
+      "price": 121.36949999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638620000,
+      "price": 62.334300000000034
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638680000,
+      "price": 122.97250000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638680000,
+      "price": 853.4745000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638680000,
+      "price": 121.36949999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638680000,
+      "price": 62.334300000000034
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638740000,
+      "price": 122.78570000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638740000,
+      "price": 853.9759000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638740000,
+      "price": 121.17029999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638740000,
+      "price": 62.26680000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638800000,
+      "price": 122.73450000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638800000,
+      "price": 854.5121000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638800000,
+      "price": 121.17029999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638800000,
+      "price": 62.26680000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638860000,
+      "price": 122.58340000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638860000,
+      "price": 854.5121000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638860000,
+      "price": 121.25959999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638860000,
+      "price": 62.16640000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638920000,
+      "price": 122.45210000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638920000,
+      "price": 854.3524000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638920000,
+      "price": 121.22389999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638920000,
+      "price": 62.03670000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751638980000,
+      "price": 122.27520000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751638980000,
+      "price": 854.3524000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751638980000,
+      "price": 121.22389999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751638980000,
+      "price": 62.05120000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751639040000,
+      "price": 122.14680000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751639040000,
+      "price": 854.5151000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751639040000,
+      "price": 121.22389999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751639040000,
+      "price": 61.97430000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751639100000,
+      "price": 122.14280000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751639100000,
+      "price": 855.1679000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751639100000,
+      "price": 121.21309999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751639100000,
+      "price": 61.90280000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751639160000,
+      "price": 122.19580000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751639160000,
+      "price": 854.7692000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751639160000,
+      "price": 120.98379999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751639160000,
+      "price": 61.90280000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751639220000,
+      "price": 122.12510000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751639220000,
+      "price": 853.6791000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751639220000,
+      "price": 120.71869999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751639220000,
+      "price": 61.869800000000026
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751639280000,
+      "price": 122.11170000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751639280000,
+      "price": 853.0444000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751639280000,
+      "price": 120.52589999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751639280000,
+      "price": 61.82580000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751639340000,
+      "price": 122.13520000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751639340000,
+      "price": 853.2234000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751639340000,
+      "price": 120.52589999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751639340000,
+      "price": 61.77610000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751639400000,
+      "price": 122.12870000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751639400000,
+      "price": 852.7929000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751639400000,
+      "price": 120.28189999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751639400000,
+      "price": 61.68960000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751639460000,
+      "price": 122.12870000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751639460000,
+      "price": 851.6707000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751639460000,
+      "price": 120.28189999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751639460000,
+      "price": 61.70190000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751639520000,
+      "price": 122.12870000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751639520000,
+      "price": 851.6707000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751639520000,
+      "price": 120.41769999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751639520000,
+      "price": 61.61780000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751639580000,
+      "price": 121.90340000000003
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751639580000,
+      "price": 850.8811000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751639580000,
+      "price": 120.37449999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751639580000,
+      "price": 61.61780000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751639640000,
+      "price": 121.90340000000003
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751639640000,
+      "price": 850.8811000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751639640000,
+      "price": 120.46199999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751639640000,
+      "price": 61.48420000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751639700000,
+      "price": 121.90340000000003
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751639700000,
+      "price": 851.2880000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751639700000,
+      "price": 120.57719999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751639700000,
+      "price": 61.48420000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751639760000,
+      "price": 121.83620000000003
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751639760000,
+      "price": 851.4309000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751639760000,
+      "price": 120.49479999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751639760000,
+      "price": 61.48420000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751639820000,
+      "price": 121.83620000000003
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751639820000,
+      "price": 851.4309000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751639820000,
+      "price": 120.27739999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751639820000,
+      "price": 61.48420000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751639880000,
+      "price": 121.81800000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751639880000,
+      "price": 851.6273000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751639880000,
+      "price": 120.17619999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751639880000,
+      "price": 61.47610000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751639940000,
+      "price": 121.78880000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751639940000,
+      "price": 851.6612000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751639940000,
+      "price": 120.17039999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751639940000,
+      "price": 61.39140000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640000000,
+      "price": 121.91200000000003
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640000000,
+      "price": 852.6837000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640000000,
+      "price": 119.94939999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640000000,
+      "price": 61.46350000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640060000,
+      "price": 121.89720000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640060000,
+      "price": 852.0446000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640060000,
+      "price": 119.94939999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640060000,
+      "price": 61.473200000000034
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640120000,
+      "price": 121.82420000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640120000,
+      "price": 852.0446000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640120000,
+      "price": 119.94939999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640120000,
+      "price": 61.57010000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640180000,
+      "price": 121.58160000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640180000,
+      "price": 852.6373000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640180000,
+      "price": 119.75569999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640180000,
+      "price": 61.57010000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640240000,
+      "price": 121.53360000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640240000,
+      "price": 852.3841000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640240000,
+      "price": 119.84839999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640240000,
+      "price": 61.57010000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640300000,
+      "price": 121.40830000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640300000,
+      "price": 852.7080000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640300000,
+      "price": 119.84839999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640300000,
+      "price": 61.57010000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640360000,
+      "price": 121.16970000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640360000,
+      "price": 851.8142000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640360000,
+      "price": 119.84839999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640360000,
+      "price": 61.48100000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640420000,
+      "price": 121.16070000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640420000,
+      "price": 851.7496000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640420000,
+      "price": 119.91359999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640420000,
+      "price": 61.41120000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640480000,
+      "price": 121.03630000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640480000,
+      "price": 851.0611000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640480000,
+      "price": 119.99419999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640480000,
+      "price": 61.53730000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640540000,
+      "price": 120.96860000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640540000,
+      "price": 852.2670000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640540000,
+      "price": 119.77999999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640540000,
+      "price": 61.61680000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640600000,
+      "price": 120.85270000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640600000,
+      "price": 852.2670000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640600000,
+      "price": 119.78279999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640600000,
+      "price": 61.76230000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640660000,
+      "price": 120.84320000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640660000,
+      "price": 853.0714000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640660000,
+      "price": 119.58229999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640660000,
+      "price": 61.76230000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640720000,
+      "price": 120.70880000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640720000,
+      "price": 851.6109000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640720000,
+      "price": 119.70639999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640720000,
+      "price": 61.84450000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640780000,
+      "price": 120.62220000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640780000,
+      "price": 850.9549000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640780000,
+      "price": 119.68119999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640780000,
+      "price": 61.90330000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640840000,
+      "price": 120.64550000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640840000,
+      "price": 849.8089000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640840000,
+      "price": 119.50269999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640840000,
+      "price": 61.86220000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640900000,
+      "price": 120.64390000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640900000,
+      "price": 849.8492000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640900000,
+      "price": 119.52669999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640900000,
+      "price": 61.89220000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751640960000,
+      "price": 120.50290000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751640960000,
+      "price": 848.7667000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751640960000,
+      "price": 119.66249999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751640960000,
+      "price": 61.91570000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641020000,
+      "price": 120.43530000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641020000,
+      "price": 848.7667000000005
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641020000,
+      "price": 119.74319999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641020000,
+      "price": 61.90020000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641080000,
+      "price": 120.51200000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641080000,
+      "price": 848.7048000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641080000,
+      "price": 119.84089999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641080000,
+      "price": 62.02520000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641140000,
+      "price": 120.32080000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641140000,
+      "price": 848.7048000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641140000,
+      "price": 119.84089999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641140000,
+      "price": 61.97690000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641200000,
+      "price": 120.14330000000007
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641200000,
+      "price": 849.1134000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641200000,
+      "price": 119.51439999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641200000,
+      "price": 61.96950000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641260000,
+      "price": 120.10670000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641260000,
+      "price": 848.8108000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641260000,
+      "price": 119.51439999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641260000,
+      "price": 62.00450000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641320000,
+      "price": 120.06580000000007
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641320000,
+      "price": 848.8108000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641320000,
+      "price": 119.21659999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641320000,
+      "price": 62.14600000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641380000,
+      "price": 120.06580000000007
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641380000,
+      "price": 848.8160000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641380000,
+      "price": 119.00519999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641380000,
+      "price": 62.14600000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641440000,
+      "price": 120.06580000000007
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641440000,
+      "price": 848.8160000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641440000,
+      "price": 118.85989999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641440000,
+      "price": 62.14600000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641500000,
+      "price": 120.07620000000007
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641500000,
+      "price": 848.9770000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641500000,
+      "price": 118.98179999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641500000,
+      "price": 62.14600000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641560000,
+      "price": 120.07620000000007
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641560000,
+      "price": 848.7934000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641560000,
+      "price": 118.98179999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641560000,
+      "price": 62.06250000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641620000,
+      "price": 120.01600000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641620000,
+      "price": 848.7934000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641620000,
+      "price": 119.02769999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641620000,
+      "price": 62.06250000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641680000,
+      "price": 120.01600000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641680000,
+      "price": 848.7934000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641680000,
+      "price": 119.12409999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641680000,
+      "price": 62.06250000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641740000,
+      "price": 120.01600000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641740000,
+      "price": 847.7599000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641740000,
+      "price": 118.98099999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641740000,
+      "price": 62.136900000000026
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641800000,
+      "price": 119.86420000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641800000,
+      "price": 847.7599000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641800000,
+      "price": 118.98099999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641800000,
+      "price": 62.089800000000025
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641860000,
+      "price": 119.86420000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641860000,
+      "price": 847.5447000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641860000,
+      "price": 118.98099999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641860000,
+      "price": 62.223100000000024
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641920000,
+      "price": 119.94850000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641920000,
+      "price": 847.1547000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641920000,
+      "price": 118.76629999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641920000,
+      "price": 62.40460000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751641980000,
+      "price": 119.94850000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751641980000,
+      "price": 846.6244000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751641980000,
+      "price": 118.50409999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751641980000,
+      "price": 62.40460000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751642040000,
+      "price": 119.97320000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751642040000,
+      "price": 846.6244000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751642040000,
+      "price": 118.30019999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751642040000,
+      "price": 62.40460000000002
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751642100000,
+      "price": 119.92540000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751642100000,
+      "price": 847.1459000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751642100000,
+      "price": 118.48749999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751642100000,
+      "price": 62.421800000000026
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751642160000,
+      "price": 119.95040000000009
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751642160000,
+      "price": 846.6894000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751642160000,
+      "price": 118.20729999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751642160000,
+      "price": 62.57940000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751642220000,
+      "price": 119.85160000000009
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751642220000,
+      "price": 846.2377000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751642220000,
+      "price": 118.20729999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751642220000,
+      "price": 62.57940000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751642280000,
+      "price": 119.81210000000009
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751642280000,
+      "price": 846.0560000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751642280000,
+      "price": 118.20729999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751642280000,
+      "price": 62.542700000000025
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751642340000,
+      "price": 119.81210000000009
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751642340000,
+      "price": 845.6552000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751642340000,
+      "price": 118.09189999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751642340000,
+      "price": 62.48220000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751642400000,
+      "price": 119.81210000000009
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751642400000,
+      "price": 845.6552000000004
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751642400000,
+      "price": 118.09189999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751642400000,
+      "price": 62.62780000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751642460000,
+      "price": 119.84060000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751642460000,
+      "price": 846.3941000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751642460000,
+      "price": 118.05489999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751642460000,
+      "price": 62.58400000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751642520000,
+      "price": 119.84060000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751642520000,
+      "price": 846.3941000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751642520000,
+      "price": 117.90139999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751642520000,
+      "price": 62.55750000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751642580000,
+      "price": 119.84060000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751642580000,
+      "price": 846.1319000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751642580000,
+      "price": 117.96059999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751642580000,
+      "price": 62.51140000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751642640000,
+      "price": 119.84060000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751642640000,
+      "price": 845.3420000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751642640000,
+      "price": 117.80409999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751642640000,
+      "price": 62.52280000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751642700000,
+      "price": 119.84060000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751642700000,
+      "price": 845.3420000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751642700000,
+      "price": 117.70049999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751642700000,
+      "price": 62.63170000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751642760000,
+      "price": 119.84060000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751642760000,
+      "price": 844.6624000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751642760000,
+      "price": 117.55849999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751642760000,
+      "price": 62.65150000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751642820000,
+      "price": 119.89120000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751642820000,
+      "price": 843.7886000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751642820000,
+      "price": 117.62669999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751642820000,
+      "price": 62.70270000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751642880000,
+      "price": 119.89120000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751642880000,
+      "price": 842.4059000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751642880000,
+      "price": 117.62979999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751642880000,
+      "price": 62.59910000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751642940000,
+      "price": 119.89120000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751642940000,
+      "price": 842.1474000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751642940000,
+      "price": 117.62979999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751642940000,
+      "price": 62.49530000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643000000,
+      "price": 119.68730000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643000000,
+      "price": 841.0420000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643000000,
+      "price": 117.62979999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643000000,
+      "price": 62.48050000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643060000,
+      "price": 119.69070000000008
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643060000,
+      "price": 840.7186000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643060000,
+      "price": 117.62979999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643060000,
+      "price": 62.60860000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643120000,
+      "price": 119.74490000000007
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643120000,
+      "price": 840.7186000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643120000,
+      "price": 117.47969999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643120000,
+      "price": 62.60860000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643180000,
+      "price": 119.56880000000007
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643180000,
+      "price": 840.7186000000003
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643180000,
+      "price": 117.47969999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643180000,
+      "price": 62.42750000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643240000,
+      "price": 119.56710000000007
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643240000,
+      "price": 840.8402000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643240000,
+      "price": 117.31919999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643240000,
+      "price": 62.42750000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643300000,
+      "price": 119.56710000000007
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643300000,
+      "price": 840.8402000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643300000,
+      "price": 117.16649999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643300000,
+      "price": 62.34300000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643360000,
+      "price": 119.50230000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643360000,
+      "price": 840.8402000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643360000,
+      "price": 117.16649999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643360000,
+      "price": 62.25550000000003
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643420000,
+      "price": 119.50230000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643420000,
+      "price": 840.8402000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643420000,
+      "price": 117.18279999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643420000,
+      "price": 62.402800000000035
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643480000,
+      "price": 119.61880000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643480000,
+      "price": 840.5590000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643480000,
+      "price": 117.18909999999997
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643480000,
+      "price": 62.402800000000035
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643540000,
+      "price": 119.61880000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643540000,
+      "price": 840.2629000000002
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643540000,
+      "price": 117.17269999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643540000,
+      "price": 62.240600000000036
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643600000,
+      "price": 119.69400000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643600000,
+      "price": 840.2613000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643600000,
+      "price": 117.31379999999996
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643600000,
+      "price": 62.240600000000036
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643660000,
+      "price": 119.59930000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643660000,
+      "price": 840.2216000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643660000,
+      "price": 117.20659999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643660000,
+      "price": 62.240600000000036
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643720000,
+      "price": 119.48430000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643720000,
+      "price": 839.3379000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643720000,
+      "price": 117.20659999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643720000,
+      "price": 62.240600000000036
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643780000,
+      "price": 119.33170000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643780000,
+      "price": 838.4956000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643780000,
+      "price": 117.02069999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643780000,
+      "price": 62.421900000000036
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643840000,
+      "price": 119.33080000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643840000,
+      "price": 839.0993000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643840000,
+      "price": 117.03679999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643840000,
+      "price": 62.512200000000036
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643900000,
+      "price": 119.33080000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643900000,
+      "price": 839.0993000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643900000,
+      "price": 116.94729999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643900000,
+      "price": 62.512200000000036
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751643960000,
+      "price": 119.33080000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751643960000,
+      "price": 839.4570000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751643960000,
+      "price": 117.08509999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751643960000,
+      "price": 62.512200000000036
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751644020000,
+      "price": 119.37340000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751644020000,
+      "price": 838.6110000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751644020000,
+      "price": 116.91389999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751644020000,
+      "price": 62.56660000000004
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751644080000,
+      "price": 119.19470000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751644080000,
+      "price": 838.6110000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751644080000,
+      "price": 116.91389999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751644080000,
+      "price": 62.46540000000004
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751644140000,
+      "price": 119.19090000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751644140000,
+      "price": 838.6757000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751644140000,
+      "price": 116.74889999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751644140000,
+      "price": 62.60610000000004
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751644200000,
+      "price": 119.20470000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751644200000,
+      "price": 838.8874000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751644200000,
+      "price": 116.74889999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751644200000,
+      "price": 62.80340000000004
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751644260000,
+      "price": 119.20470000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751644260000,
+      "price": 839.2959000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751644260000,
+      "price": 116.74889999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751644260000,
+      "price": 62.98320000000004
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751644320000,
+      "price": 119.36300000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751644320000,
+      "price": 838.9582
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751644320000,
+      "price": 116.60439999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751644320000,
+      "price": 62.98320000000004
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751644380000,
+      "price": 119.44090000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751644380000,
+      "price": 838.3165
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751644380000,
+      "price": 116.68159999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751644380000,
+      "price": 63.06170000000004
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751644440000,
+      "price": 119.26420000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751644440000,
+      "price": 837.9635000000001
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751644440000,
+      "price": 116.68159999999995
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751644440000,
+      "price": 63.06170000000004
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751644500000,
+      "price": 119.11440000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751644500000,
+      "price": 837.7911
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751644500000,
+      "price": 116.53499999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751644500000,
+      "price": 63.21290000000004
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751644560000,
+      "price": 119.15810000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751644560000,
+      "price": 837.1906
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751644560000,
+      "price": 116.59989999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751644560000,
+      "price": 63.22330000000004
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751644620000,
+      "price": 119.01580000000004
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751644620000,
+      "price": 837.2197
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751644620000,
+      "price": 116.64189999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751644620000,
+      "price": 63.28780000000004
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751644680000,
+      "price": 118.89780000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751644680000,
+      "price": 837.1327
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751644680000,
+      "price": 116.64189999999994
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751644680000,
+      "price": 63.24630000000004
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751644740000,
+      "price": 118.93180000000005
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751644740000,
+      "price": 837.1327
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751644740000,
+      "price": 116.82879999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751644740000,
+      "price": 63.18010000000004
+    },
+    {
+      "ticker": "AAPL",
+      "timestamp": 1751644800000,
+      "price": 118.95850000000006
+    },
+    {
+      "ticker": "GOOGL",
+      "timestamp": 1751644800000,
+      "price": 836.8522
+    },
+    {
+      "ticker": "FB",
+      "timestamp": 1751644800000,
+      "price": 116.82879999999993
+    },
+    {
+      "ticker": "MSFT",
+      "timestamp": 1751644800000,
+      "price": 63.18010000000004
+    }
+  ]
+}
