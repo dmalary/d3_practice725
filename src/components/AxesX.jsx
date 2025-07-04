@@ -1,9 +1,7 @@
 import { useMemo } from 'react';
 import * as d3 from 'd3'
-import data from '../../market.json'
 
-// export default function AxesX(width, data) {
-export default function AxesX() {
+export default function AxesX({width, height, data}) {
   console.log('data', data)
   const ticks = useMemo(() => {
     const tradeOpen = data.timestamp;
@@ -11,35 +9,39 @@ export default function AxesX() {
 
     const xScale = d3.scaleUtc()
       .domain([tradeOpen, tradeClose])
-      // .range([0, width])
-      .range([0, 710]);
+      .range([0, width - 90])
 
     return xScale.ticks()
       .map(value => ({
         value,
         xOffset: xScale(value)
       }))
-  }, [])
+  }, [data, width])
 
   return (
-    <svg width={800} height={500}>
-      {/* X-axis baseline */}
-      <path
-      // d="M 0.5 20.5 H 710.5" 
-      stroke="currentColor" />
-
-      {/* Ticks */}
+    <>
       {ticks.map(({ value, xOffset }) => (
-        <g key={value.toISOString()} transform={`translate(${xOffset + 50}, 20)`}>
-          <text y={-10} textAnchor="middle" fontSize={10} fill="#666">
+        <g 
+          className="x-axis-grid" 
+          key={value.toISOString()} 
+          transform={`translate(${xOffset + 50}, 20)`}>
+          <text 
+            y={-10} 
+            textAnchor="middle" 
+            fontSize={10} fill="#666">
             {d3.utcFormat('%H:%M')(value)}
           </text>
-          <line y2="410" stroke="#ccc" />
-          <text y={425} textAnchor="middle" fontSize={10} fill="#666">
+          <line 
+            y2={height - 90} 
+            stroke="#ccc" />
+          <text 
+            y={425} 
+            textAnchor="middle" 
+            fontSize={10} fill="#666">
             {d3.utcFormat('%H:%M')(value)}
           </text>
         </g>
       ))}
-    </svg>
+    </>
   );
 }
