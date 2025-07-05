@@ -27,10 +27,10 @@ function App() {
       {/* <path 
         stroke="currentColor"
       /> */}
-      <AxesX data={data} width={specs.width - 20} height={specs.height}/>
-      <AxesY data={data} width={specs.width - 20} height={specs.height}/>
+      <AxesX data={data} width={specs.width - 20} height={specs.height - 20}/>
+      <AxesY data={data} width={specs.width - 20} height={specs.height - 20}/>
       {/* for each data.stocks map through history as LineChart */}
-      <LineChart data={filteredData} width={specs.width - 20} height={specs.height}/>
+      <LineChart data={filteredData} width={specs.width - 20} height={specs.height - 20}/>
       </svg>
     </>
   )

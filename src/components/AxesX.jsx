@@ -32,10 +32,10 @@ export default function AxesX({width, height, data}) {
             {d3.utcFormat('%H:%M')(value)}
           </text>
           <line 
-            y2={height - 90} // fix this
+            y2={height - 20} // fix this
             stroke="#ccc" />
           <text 
-            y={425} 
+            y={475} 
             textAnchor="middle" 
             fontSize={10} fill="#666">
             {d3.utcFormat('%H:%M')(value)}
