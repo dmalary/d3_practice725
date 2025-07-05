@@ -11,39 +11,29 @@ function App() {
   const specs = {
     width: 800,
     height: 500
-  }
-
-  console.log('data', data)
-  console.log('data', data.history.filter(el => el.ticker === "AAPL"))
+  };
 
   const stockColorCat = {
-    AAPL: '#1F77B4', //aapl
-    GOOGL: '#9467BD', // googl
-    FB: '#FF7F0E', // fb
-    MSFT: '#8C564B', // msft
-  }
+    AAPL: '#1F77B4',
+    GOOGL: '#9467BD',
+    FB: '#FF7F0E',
+    MSFT: '#8C564B',
+  };
 
   const filteredData = (stockKey) => ({
     ...data,
     history: data.history.filter(el => el.ticker === stockKey),
     stockColor: stockColorCat[stockKey]
-  })
-
+  });
 
   return (
     <>
     <svg width={specs.width} height={specs.height}>
-      {/* <path 
-        stroke="currentColor"
-      /> */}
       <AxesX data={data} width={specs.width - 20} height={specs.height - 20}/>
       <AxesY data={data} width={specs.width - 20} height={specs.height - 20}/>
-      {/* for each data.stocks map through history as LineChart */}
-      {/* <LineChart data={filteredData("AAPL")} width={specs.width - 20} height={specs.height - 20}/> */}
       {data.stocks.map(stock => {
-        // console.log('filtered', filteredData(stock)),
         const stockData = filteredData(stock.ticker);
-        console.log('stockData', stockData)
+        // console.log('stockData', stockData)
         return (
         <LineChart 
           key={stock.ticker}

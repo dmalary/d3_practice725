@@ -16,7 +16,7 @@ export default function AxesX({width, height, data}) {
         value,
         xOffset: xScale(value)
       }))
-  }, [data, width])
+  }, [data, width]);
 
   return (
     <>
