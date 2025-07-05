@@ -5,6 +5,7 @@ import data from '../market.json'
 import AxesX from './components/AxesX'
 import AxesY from './components/AxesY'
 import LineChart from './components/LineChart'
+import TickerTable from './components/TickerTable'
 
 function App() {
 
@@ -28,23 +29,38 @@ function App() {
 
   return (
     <>
-    <svg width={specs.width} height={specs.height}>
-      <AxesX data={data} width={specs.width - 20} height={specs.height - 20}/>
-      <AxesY data={data} width={specs.width - 20} height={specs.height - 20}/>
-      {data.stocks.map(stock => {
-        const stockData = filteredData(stock.ticker);
-        // console.log('stockData', stockData)
-        return (
-        <LineChart 
-          key={stock.ticker}
-          data={stockData} 
-          width={specs.width - 20} 
-          height={specs.height - 20}
-          strokeColor={stockData.stockColor}
-        />
-        )
-      })}
-      </svg>
+    <div className='chart-container'>
+      <svg width={specs.width} height={specs.height}>
+        <AxesX data={data} width={specs.width - 20} height={specs.height - 20}/>
+        <AxesY data={data} width={specs.width - 20} height={specs.height - 20}/>
+        {data.stocks.map(stock => {
+          const stockData = filteredData(stock.ticker);
+          // console.log('stockData', stockData)
+          return (
+          <LineChart 
+            key={stock.ticker}
+            data={stockData} 
+            width={specs.width - 20} 
+            height={specs.height - 20}
+            strokeColor={stockData.stockColor}
+          />
+          )
+        })}
+        </svg>
+      </div>
+      <div className='ticker-table-container'>
+          {data.stocks.map(stock => {
+            const stockData = filteredData(stock.ticker);
+
+            return (
+              <TickerTable 
+                key={stock.ticker}
+                ticker={stock.ticker}
+                data={stockData} 
+              />
+            )
+          })}
+      </div>
     </>
   )
 }
