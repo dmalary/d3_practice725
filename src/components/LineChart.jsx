@@ -32,8 +32,7 @@ export default function LineChart({data, height, width, strokeColor}) {
     <>
       <path
         fill='none'
-        stroke='steelblue'
-        // stroke={strokeColor}
+        stroke={strokeColor}
         strokeWidth={1.5}
         d={pathD}
         transform="translate(50, 20)"
