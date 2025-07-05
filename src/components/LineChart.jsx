@@ -23,7 +23,7 @@ export default function LineChart({data, height, width, strokeColor}) {
       const lineGen = d3.line()
         .x(d => xScale(d.timestamp))
         .y(d => yScale(d.price))
-        // .curve(d3.curveMonotoneX); // optional: smoother line
+        .curve(d3.curveMonotoneX); // optional: smoother line
   
       return lineGen(data.history)
     }, [data, height, width]);
@@ -33,7 +33,7 @@ export default function LineChart({data, height, width, strokeColor}) {
       <path
         fill='none'
         stroke={strokeColor}
-        strokeWidth={1.5}
+        strokeWidth={2}
         d={pathD}
         transform="translate(50, 20)"
       />
