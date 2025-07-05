@@ -13,7 +13,7 @@ export default function AxesY({width, height, data}) {
       .domain(yDomain)
       .range([height - 40, 0]) // leave bottom margin
 
-    return yScale.ticks(6).map(val => ({
+    return yScale.ticks(5).map(val => ({
       val,
       yOffset: yScale(val)
     }));
@@ -21,7 +21,8 @@ export default function AxesY({width, height, data}) {
 
   return (
     <>
-      {ticks.map(({val, yOffset}) => (
+      {ticks.map(({val, yOffset}, i) => (
+        // i > 0 ?
         <g 
           className="y-axis-grid"
           key={val.toString()} 
@@ -39,7 +40,8 @@ export default function AxesY({width, height, data}) {
           >
             {val.toFixed(2)}
           </text>
-        </g>
+        </g> 
+        // : null
       ))}
     </>
   )

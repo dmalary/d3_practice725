@@ -2,7 +2,7 @@ import { useMemo } from 'react';
 import * as d3 from 'd3'
 
 export default function AxesX({width, height, data}) {
-  console.log('data', data)
+  // console.log('data', data)
   const ticks = useMemo(() => {
     const tradeOpen = data.timestamp;
     const tradeClose = +data.timestamp + (6.5 * 60 * 60 * 1000);
@@ -32,7 +32,7 @@ export default function AxesX({width, height, data}) {
             {d3.utcFormat('%H:%M')(value)}
           </text>
           <line 
-            y2={height - 90} 
+            y2={height - 90} // fix this
             stroke="#ccc" />
           <text 
             y={425} 
