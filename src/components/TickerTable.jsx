@@ -4,7 +4,7 @@ import { useMemo } from 'react';
 export default function TickerTable({ticker, data}) {
   console.log('data', data)
   const tableData = useMemo(() => {
-      if (!data || !data.history) return [];
+      if (!data || !data.history || data.history.length === 0) return null;
   
       const startPrice = data.history[0].price;
       const endPrice = data.history[data.history.length - 1].price;
@@ -22,8 +22,9 @@ export default function TickerTable({ticker, data}) {
 
   const isPos = (num) => num > 0 ? '#2CA02C' : '#D62728';
 
+  if (!tableData) return null;
+
   return (
-    <>
     <table style={{borderLeft:`8px solid ${data.stockColor}`, margin:'5px 0'}}>
       <tbody>
         <tr>
@@ -38,6 +39,5 @@ export default function TickerTable({ticker, data}) {
         </tr>  
       </tbody>
     </table>
-    </>
   )
 }
