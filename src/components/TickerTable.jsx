@@ -24,10 +24,12 @@ export default function TickerTable({ticker, data}) {
 
   return (
     <>
-    <table>
+    <table style={{borderLeft:`8px solid ${data.stockColor}`, margin:'5px 0'}}>
       <tbody>
         <tr>
-          <td style={{color: data.stockColor}}>{ticker}</td>
+          <td style={{color: data.stockColor}}>
+            <a style={{color: data.stockColor}}>{ticker}</a>
+          </td>
           <td style={{color: isPos(tableData.percentChange)}}>{tableData.percentChange}%</td>
         </tr>  
         <tr>
