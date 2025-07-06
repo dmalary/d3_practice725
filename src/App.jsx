@@ -10,7 +10,6 @@ import TickerTable from './components/TickerTable'
 function App() {
 
   const [isSelected, setIsSelected] = useState([]);
-  console.log('isSelected', isSelected)
 
   const handleSelect = (ticker) => {
     setIsSelected(prev =>
@@ -44,7 +43,6 @@ function App() {
         <AxesY data={data} width={specs.width - 20} height={specs.height - 20}/>
         {data.stocks.map(stock => {
           const stockData = filteredData(stock.ticker);
-          // console.log('stockData', stockData)
           return (
           <LineChart 
             key={stock.ticker}

@@ -2,7 +2,6 @@ import { useMemo } from 'react';
 
 
 export default function TickerTable({ticker, data, isSelected, onClick}) {
-  // console.log('data', data)
   const tableData = useMemo(() => {
       if (!data || !data.history || data.history.length === 0) return null;
   
@@ -25,7 +24,6 @@ export default function TickerTable({ticker, data, isSelected, onClick}) {
   if (!tableData) return null;
 
   const isActive = isSelected.includes(ticker);
-  // console.log('isSelected', isSelected)
 
   return (
     <table 

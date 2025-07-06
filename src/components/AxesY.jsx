@@ -47,7 +47,7 @@ export default function AxesY({width, height, data}) {
     <>
       {ticks.map(({val, yOffset}, i) => (
         // i > 0 ?
-        console.log('val', val),
+        // console.log('val', val),
         <g 
           className="y-axis-grid"
           key={val.toString()} 

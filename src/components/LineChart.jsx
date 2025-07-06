@@ -2,9 +2,6 @@ import { useMemo } from 'react';
 import * as d3 from 'd3'
 
 export default function LineChart({data, height, width, strokeColor, ticker, isSelected}) {
-    // console.log('isSelected', isSelected)
-    // console.log('ticker', ticker)
-
     const isActive = isSelected.includes(ticker);
 
     const pathD = useMemo(() => {
