@@ -1,4 +1,4 @@
-// import { useState } from 'react'
+import { useState } from 'react'
 import './App.css'
 
 import data from '../market.json'
@@ -8,6 +8,15 @@ import LineChart from './components/LineChart'
 import TickerTable from './components/TickerTable'
 
 function App() {
+
+  const [isSelected, setIsSelected] = useState([]);
+  console.log('isSelected', isSelected)
+
+  const handleSelect = (ticker) => {
+    setIsSelected(prev =>
+      prev.includes(ticker) ? prev.filter(t => t !== ticker) : [...prev, ticker]
+    );
+  };
 
   const specs = {
     width: 800,
@@ -57,6 +66,8 @@ function App() {
                 key={stock.ticker}
                 ticker={stock.ticker}
                 data={stockData} 
+                isSelected={isSelected}
+                onClick={handleSelect}
               />
             )
           })}

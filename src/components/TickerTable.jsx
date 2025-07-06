@@ -1,8 +1,8 @@
 import { useMemo } from 'react';
 
 
-export default function TickerTable({ticker, data}) {
-  console.log('data', data)
+export default function TickerTable({ticker, data, isSelected, onClick}) {
+  // console.log('data', data)
   const tableData = useMemo(() => {
       if (!data || !data.history || data.history.length === 0) return null;
   
@@ -24,12 +24,24 @@ export default function TickerTable({ticker, data}) {
 
   if (!tableData) return null;
 
+  const isActive = isSelected.includes(ticker);
+  // console.log('isSelected', isSelected)
+
   return (
-    <table style={{borderLeft:`8px solid ${data.stockColor}`, margin:'5px 0'}}>
+    <table 
+      onClick={() => onClick(ticker)}
+      style={{
+        borderLeft:`8px solid ${data.stockColor}`,
+        margin:'5px 0',
+        cursor: 'pointer',
+        opacity: isSelected.length === 0 || isActive ? '100%' : '65%',
+        transition: 'opacity 0.2s'
+      }}
+    >
       <tbody>
         <tr>
           <td style={{color: data.stockColor}}>
-            <a style={{color: data.stockColor}}>{ticker}</a>
+              {ticker}
           </td>
           <td style={{color: isPos(tableData.percentChange)}}>{tableData.percentChange}%</td>
         </tr>  
