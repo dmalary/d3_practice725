@@ -48,10 +48,12 @@ function App() {
           return (
           <LineChart 
             key={stock.ticker}
+            ticker={stock.ticker}
             data={stockData} 
             width={specs.width - 20} 
             height={specs.height - 20}
             strokeColor={stockData.stockColor}
+            isSelected={isSelected}
           />
           )
         })}

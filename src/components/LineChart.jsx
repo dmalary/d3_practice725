@@ -1,7 +1,12 @@
 import { useMemo } from 'react';
 import * as d3 from 'd3'
 
-export default function LineChart({data, height, width, strokeColor}) {
+export default function LineChart({data, height, width, strokeColor, ticker, isSelected}) {
+    // console.log('isSelected', isSelected)
+    // console.log('ticker', ticker)
+
+    const isActive = isSelected.includes(ticker);
+
     const pathD = useMemo(() => {
       if (!data || !data.history) return [];
 
@@ -30,13 +35,15 @@ export default function LineChart({data, height, width, strokeColor}) {
 
   return (
     <>
-      <path
-        fill='none'
-        stroke={strokeColor}
-        strokeWidth={2}
-        d={pathD}
-        transform="translate(50, 20)"
-      />
+      {isSelected.length === 0 || isActive ?
+        <path
+          fill='none'
+          stroke={strokeColor}
+          strokeWidth={2}
+          d={pathD}
+          transform="translate(50, 20)"
+        /> : null
+      }
     </>
   )
 }
